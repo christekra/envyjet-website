@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/envyjet-website/static/css/main.b622a302.css",
+    "main.js": "/envyjet-website/static/js/main.a2efc60c.js",
+    "index.html": "/envyjet-website/index.html",
+    "main.b622a302.css.map": "/envyjet-website/static/css/main.b622a302.css.map",
+    "main.a2efc60c.js.map": "/envyjet-website/static/js/main.a2efc60c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b622a302.css",
+    "static/js/main.a2efc60c.js"
+  ]
+}
