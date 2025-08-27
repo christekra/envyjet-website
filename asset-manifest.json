@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/envyjet-website/static/css/main.b622a302.css",
-    "main.js": "/envyjet-website/static/js/main.a2efc60c.js",
+    "main.js": "/envyjet-website/static/js/main.1c577c69.js",
     "index.html": "/envyjet-website/index.html",
     "main.b622a302.css.map": "/envyjet-website/static/css/main.b622a302.css.map",
-    "main.a2efc60c.js.map": "/envyjet-website/static/js/main.a2efc60c.js.map"
+    "main.1c577c69.js.map": "/envyjet-website/static/js/main.1c577c69.js.map"
   },
   "entrypoints": [
     "static/css/main.b622a302.css",
-    "static/js/main.a2efc60c.js"
+    "static/js/main.1c577c69.js"
   ]
 }
